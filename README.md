@@ -4,17 +4,6 @@ Hello! I am an opensource developer. Feel free to look into my projects.
 #### About
 ##### I am 16 years old and live in North Rhine-Westphalia. I am a passionate programmer since 2017, I like to help where I can and I am open for new things.
 
-#### Skills
-##### Backend development:
-##### - Javascript
-##### - Typescript
-
-##### Frontend-Entwicklung:
-##### - Html
-##### - Css
-##### - Scss
-##### - Ejs
-
 #### Projects
 ##### - [Ticketer](https://github.com/fallenblackdev/Ticketer)
 
