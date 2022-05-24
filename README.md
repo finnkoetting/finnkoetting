@@ -10,7 +10,7 @@ Hello! I am an opensource developer. Feel free to look into my projects.
 #### Contact
 ##### I can be reached via Discord (BLACK#0001), Twitter (@KottingFinn), and email (fallenblackdev@gmail.com).
 
-### Partnerships
+#### Partnerships
 ##### - [aveeistrue](https://github.com/aveeitstrue)
 
 ### Contributing and Copyright
