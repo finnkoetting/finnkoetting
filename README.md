@@ -6,3 +6,5 @@ Hello! I am an opensource developer. Feel free to look into my projects.
 
 #### 📥 Contact
 ##### I can be reached via Discord (BLACK#0001), Twitter (@KottingFinn), and email (fallenblackdev@gmail.com).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fallenblackdev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
