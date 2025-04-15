@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working at FernUniversität in Hagen<br>🌱 I’m currently learning Java and Phython<br>⚡ I am 18 years old
+🔭 I’m working at FernUniversität in Hagen<br>🌱 I’m currently learning Java and Phython<br>⚡ I am 19 years old
 
 
 ## 🌐 Socials:
