@@ -3,24 +3,31 @@
 
 Creator & Developer of **[finnkoetting.de](https://www.finnkoetting.de)**
 
-I develop modern, scalable web applications with a strong focus on architecture, performance, and clean code. My work combines practical project experience with an engineering-driven mindset.
+I build modern, scalable web applications with a strong focus on clean architecture, performance, and long-term maintainability.  
+My work is driven by practical experience, structured thinking, and an engineering-first mindset.
 
+---
 
-## 🛠️ Tech Focus
+## 🛠️ Tech Stack
 **Frontend:** Next.js · React · Astro  
 **Backend:** Express (TypeScript) · Discord.js  
-**Infrastructure:** Docker · Ubuntu
+**Infrastructure:** Docker · Ubuntu · VPS Deployments  
 
+---
 
 ## 🚀 What I Build
-- Full-stack applications
-- Production-ready websites
-- REST APIs and service integrations
+- Full-stack web applications  
+- Production-ready websites  
+- REST APIs & third-party integrations  
+- Tooling and automation for real-world use cases  
 
+---
 
-## 📐 Professional Approach
-I prioritize code clarity, consistent architecture, and long-term maintainability. Reliability and performance are at the core of my development process.
+## 📐 Development Philosophy
+I value clear code, consistent structure, and predictable systems.  
+Every project is built with scalability, reliability, and performance in mind — not just for today, but for long-term use.
 
+---
 
 ## 🎯 Profile
-Young, ambitious, and technically focused — working at the intersection of practical development and clean engineering principles.
+Young, ambitious, and technically focused — working at the intersection of hands-on development and clean engineering principles.
